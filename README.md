@@ -1,4 +1,6 @@
 ### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=waruru&count_private=true&show_icons=true&theme=dracula)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=waruru&layout=compact)
 
 <!--
 **waruru/waruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
