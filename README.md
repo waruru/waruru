@@ -2,6 +2,8 @@
 ![GitHub Stats Card](https://github-readme-stats-tau-mauve.vercel.app/api?username=waruru&count_private=true&show_icons=true&theme=dracula)
 ![Top Languages Card (Compact layout)](https://github-readme-stats-tau-mauve.vercel.app/api/top-langs/?username=waruru&layout=compact&count_private=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=waruru&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **waruru/waruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
