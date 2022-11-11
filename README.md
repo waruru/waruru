@@ -1,6 +1,5 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats-tau-mauve.vercel.app/api?username=waruru&count_private=true&show_icons=true&theme=dracula)
-![Top Languages Card (Compact layout)](https://github-readme-stats-tau-mauve.vercel.app/api/top-langs/?username=waruru&layout=compact&count_private=true)
+![GitHub Stats Card](https://github-readme-stats-tau-mauve.vercel.app/api?username=waruru&count_private=true&show_icons=true&theme=dracula)![Top Languages Card (Compact layout)](https://github-readme-stats-tau-mauve.vercel.app/api/top-langs/?username=waruru&layout=compact&count_private=true)
 
 [![trophy](https://github-profile-trophy-five.vercel.app/?username=waruru&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
